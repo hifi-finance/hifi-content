@@ -6,8 +6,8 @@ This repository contains our blog posts archive, organized chronologically. Each
 - [HIP 15 Forum Discussion Live](2025/2025-03-03_hip-15-forum-discussion-live.md) - March 2, 2025
 - [HIP 15 Voting Live!](2025/2025-03-03_hip-15-voting-live.md) - March 2, 2025
 - [Hifi v3 AMA Recap](2025/2025-02-28_hifi-v3-ama-recap.md) - February 27, 2025
+- [v3 Proposal](2025/2025-02-21_v3-proposal.md) - February 20, 2025
 - [HIP 14 Voting Live!](2024/2024-12-06_hip-14-voting-live.md) - December 5, 2024
-- [HIP 14 — Administrative Update for Our Liquidity Bootstrapping Program](2024/2024-12-02_hip-14-administrative-update-for-our-liquidity-bootstrapping-program.md) - December 1, 2024
 
 
 
@@ -19,6 +19,7 @@ This repository contains our blog posts archive, organized chronologically. Each
 - [HIP 15 Forum Discussion Live](2025/2025-03-03_hip-15-forum-discussion-live.md) - March 2, 2025
 - [HIP 15 Voting Live!](2025/2025-03-03_hip-15-voting-live.md) - March 2, 2025
 - [Hifi v3 AMA Recap](2025/2025-02-28_hifi-v3-ama-recap.md) - February 27, 2025
+- [v3 Proposal](2025/2025-02-21_v3-proposal.md) - February 20, 2025
 </details>
 
 <details>
@@ -269,6 +270,7 @@ This repository contains our blog posts archive, organized chronologically. Each
 - [HIP 15 Forum Discussion Live](2025/2025-03-03_hip-15-forum-discussion-live.md) - March 2, 2025
 - [HIP 15 Voting Live!](2025/2025-03-03_hip-15-voting-live.md) - March 2, 2025
 - [Hifi v3 AMA Recap](2025/2025-02-28_hifi-v3-ama-recap.md) - February 27, 2025
+- [v3 Proposal](2025/2025-02-21_v3-proposal.md) - February 20, 2025
 </details>
 
 <details>
