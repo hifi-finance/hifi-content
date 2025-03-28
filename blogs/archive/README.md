@@ -21,6 +21,9 @@ This repository contains our blog posts archive, organized chronologically. Each
 - [Hifi v3 AMA Recap](2025/2025-02-28_hifi-v3-ama-recap.md) - February 27, 2025
 - [v3 Proposal](2025/2025-02-21_v3-proposal.md) - February 20, 2025
 - [2025 Roadmap](2025/2025-02-18_2025-roadmap.md) - February 17, 2025
+- [Hifi v3 Whitepaper](2025/2025-02-17_hifi-v3-whitepaper.md) - February 16, 2025
+- [Introducing Hifi v3](2025/2025-02-10_introducing-hifi-v3.md) - February 9, 2025
+- [The Road to Hifi v3](2025/2025-02-10_the-road-to-hifi-v3.md) - February 9, 2025
 </details>
 
 <details>
@@ -273,6 +276,9 @@ This repository contains our blog posts archive, organized chronologically. Each
 - [Hifi v3 AMA Recap](2025/2025-02-28_hifi-v3-ama-recap.md) - February 27, 2025
 - [v3 Proposal](2025/2025-02-21_v3-proposal.md) - February 20, 2025
 - [2025 Roadmap](2025/2025-02-18_2025-roadmap.md) - February 17, 2025
+- [Hifi v3 Whitepaper](2025/2025-02-17_hifi-v3-whitepaper.md) - February 16, 2025
+- [Introducing Hifi v3](2025/2025-02-10_introducing-hifi-v3.md) - February 9, 2025
+- [The Road to Hifi v3](2025/2025-02-10_the-road-to-hifi-v3.md) - February 9, 2025
 </details>
 
 <details>
