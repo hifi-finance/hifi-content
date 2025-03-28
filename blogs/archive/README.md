@@ -3,15 +3,23 @@
 This repository contains our blog posts archive, organized chronologically. Each post is stored as a markdown file with a standardized naming format: `YYYY-MM-DD_title-slug.md`.
 ## Recent Blogs
 
+- [HIP 15 Forum Discussion Live](2025/2025-03-03_hip-15-forum-discussion-live.md) - March 2, 2025
+- [HIP 15 Voting Live!](2025/2025-03-03_hip-15-voting-live.md) - March 2, 2025
+- [Hifi v3 AMA Recap](2025/2025-02-28_hifi-v3-ama-recap.md) - February 27, 2025
 - [HIP 14 Voting Live!](2024/2024-12-06_hip-14-voting-live.md) - December 5, 2024
 - [HIP 14 — Administrative Update for Our Liquidity Bootstrapping Program](2024/2024-12-02_hip-14-administrative-update-for-our-liquidity-bootstrapping-program.md) - December 1, 2024
-- [Hifi Smashes $25M TVL Goal!](2024/2024-11-20_hifi-smashes-25m-tvl-goal.md) - November 19, 2024
-- [HIP 11+ HIP 12 + HIP 13 Voting Live!](2024/2024-11-14_hip-11-hip-12-hip-13-voting-live.md) - November 13, 2024
-- [HIP 11, HIP 12, and HIP 13 Forum Discussions Live](2024/2024-11-13_hip-11-hip-12-and-hip-13-forum-discussions-live.md) - November 12, 2024
 
 
 
 ## Posts by Year
+
+<details>
+<summary>&nbsp;<b>2025</b></summary>
+
+- [HIP 15 Forum Discussion Live](2025/2025-03-03_hip-15-forum-discussion-live.md) - March 2, 2025
+- [HIP 15 Voting Live!](2025/2025-03-03_hip-15-voting-live.md) - March 2, 2025
+- [Hifi v3 AMA Recap](2025/2025-02-28_hifi-v3-ama-recap.md) - February 27, 2025
+</details>
 
 <details>
 <summary>&nbsp;<b>2024</b></summary>
@@ -255,6 +263,14 @@ This repository contains our blog posts archive, organized chronologically. Each
 <details>
 <summary>&nbsp;<b>Doug Leonard</b></summary>
 <blockquote>
+<details>
+<summary>&nbsp;<b>2025</b></summary>
+
+- [HIP 15 Forum Discussion Live](2025/2025-03-03_hip-15-forum-discussion-live.md) - March 2, 2025
+- [HIP 15 Voting Live!](2025/2025-03-03_hip-15-voting-live.md) - March 2, 2025
+- [Hifi v3 AMA Recap](2025/2025-02-28_hifi-v3-ama-recap.md) - February 27, 2025
+</details>
+
 <details>
 <summary>&nbsp;<b>2024</b></summary>
 
