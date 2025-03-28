@@ -3,11 +3,11 @@
 This repository contains our blog posts archive, organized chronologically. Each post is stored as a markdown file with a standardized naming format: `YYYY-MM-DD_title-slug.md`.
 ## Recent Blogs
 
+- [Hifi DAO Update: HIP 15 Proposal Passed!](2025/2025-03-19_hifi-dao-update-hip-15-proposal-passed.md) - March 18, 2025
 - [HIP 15 Forum Discussion Live](2025/2025-03-03_hip-15-forum-discussion-live.md) - March 2, 2025
 - [HIP 15 Voting Live!](2025/2025-03-03_hip-15-voting-live.md) - March 2, 2025
 - [Hifi v3 AMA Recap](2025/2025-02-28_hifi-v3-ama-recap.md) - February 27, 2025
 - [v3 Proposal](2025/2025-02-21_v3-proposal.md) - February 20, 2025
-- [2025 Roadmap](2025/2025-02-18_2025-roadmap.md) - February 17, 2025
 
 
 
@@ -16,6 +16,7 @@ This repository contains our blog posts archive, organized chronologically. Each
 <details>
 <summary>&nbsp;<b>2025</b></summary>
 
+- [Hifi DAO Update: HIP 15 Proposal Passed!](2025/2025-03-19_hifi-dao-update-hip-15-proposal-passed.md) - March 18, 2025
 - [HIP 15 Forum Discussion Live](2025/2025-03-03_hip-15-forum-discussion-live.md) - March 2, 2025
 - [HIP 15 Voting Live!](2025/2025-03-03_hip-15-voting-live.md) - March 2, 2025
 - [Hifi v3 AMA Recap](2025/2025-02-28_hifi-v3-ama-recap.md) - February 27, 2025
@@ -271,6 +272,7 @@ This repository contains our blog posts archive, organized chronologically. Each
 <details>
 <summary>&nbsp;<b>2025</b></summary>
 
+- [Hifi DAO Update: HIP 15 Proposal Passed!](2025/2025-03-19_hifi-dao-update-hip-15-proposal-passed.md) - March 18, 2025
 - [HIP 15 Forum Discussion Live](2025/2025-03-03_hip-15-forum-discussion-live.md) - March 2, 2025
 - [HIP 15 Voting Live!](2025/2025-03-03_hip-15-voting-live.md) - March 2, 2025
 - [Hifi v3 AMA Recap](2025/2025-02-28_hifi-v3-ama-recap.md) - February 27, 2025
