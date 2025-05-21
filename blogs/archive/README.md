@@ -3,11 +3,11 @@
 This repository contains our blog posts archive, organized chronologically. Each post is stored as a markdown file with a standardized naming format: `YYYY-MM-DD_title-slug.md`.
 ## Recent Blogs
 
-- [Hifi DAO Update: HIP 15 Proposal Passed!](2025/2025-03-19_hifi-dao-update-hip-15-proposal-passed.md) - March 18, 2025
-- [HIP 15 Forum Discussion Live](2025/2025-03-03_hip-15-forum-discussion-live.md) - March 2, 2025
-- [HIP 15 Voting Live!](2025/2025-03-03_hip-15-voting-live.md) - March 2, 2025
-- [Hifi v3 AMA Recap](2025/2025-02-28_hifi-v3-ama-recap.md) - February 27, 2025
-- [v3 Proposal](2025/2025-02-21_v3-proposal.md) - February 20, 2025
+- [HIP 16 Update: Proposal Passed](2025/2025-05-01_hip-16-update-proposal-passed.md) - April 30, 2025
+- [HIP 16 Voting Live](2025/2025-04-23_hip-16-voting-live.md) - April 22, 2025
+- [Establishing a Baseline Plan](2025/2025-04-21_establishing-a-baseline-plan.md) - April 20, 2025
+- [Resetting Expectations](2025/2025-04-16_resetting-expectations.md) - April 15, 2025
+- [Official Response: Upbit & Bithumb Delisting HIFI](2025/2025-04-14_official-response-upbit-bithumb-delisting-hifi.md) - April 13, 2025
 
 
 
@@ -16,6 +16,11 @@ This repository contains our blog posts archive, organized chronologically. Each
 <details>
 <summary>&nbsp;<b>2025</b></summary>
 
+- [HIP 16 Update: Proposal Passed](2025/2025-05-01_hip-16-update-proposal-passed.md) - April 30, 2025
+- [HIP 16 Voting Live](2025/2025-04-23_hip-16-voting-live.md) - April 22, 2025
+- [Establishing a Baseline Plan](2025/2025-04-21_establishing-a-baseline-plan.md) - April 20, 2025
+- [Resetting Expectations](2025/2025-04-16_resetting-expectations.md) - April 15, 2025
+- [Official Response: Upbit & Bithumb Delisting HIFI](2025/2025-04-14_official-response-upbit-bithumb-delisting-hifi.md) - April 13, 2025
 - [Hifi DAO Update: HIP 15 Proposal Passed!](2025/2025-03-19_hifi-dao-update-hip-15-proposal-passed.md) - March 18, 2025
 - [HIP 15 Forum Discussion Live](2025/2025-03-03_hip-15-forum-discussion-live.md) - March 2, 2025
 - [HIP 15 Voting Live!](2025/2025-03-03_hip-15-voting-live.md) - March 2, 2025
@@ -272,6 +277,11 @@ This repository contains our blog posts archive, organized chronologically. Each
 <details>
 <summary>&nbsp;<b>2025</b></summary>
 
+- [HIP 16 Update: Proposal Passed](2025/2025-05-01_hip-16-update-proposal-passed.md) - April 30, 2025
+- [HIP 16 Voting Live](2025/2025-04-23_hip-16-voting-live.md) - April 22, 2025
+- [Establishing a Baseline Plan](2025/2025-04-21_establishing-a-baseline-plan.md) - April 20, 2025
+- [Resetting Expectations](2025/2025-04-16_resetting-expectations.md) - April 15, 2025
+- [Official Response: Upbit & Bithumb Delisting HIFI](2025/2025-04-14_official-response-upbit-bithumb-delisting-hifi.md) - April 13, 2025
 - [Hifi DAO Update: HIP 15 Proposal Passed!](2025/2025-03-19_hifi-dao-update-hip-15-proposal-passed.md) - March 18, 2025
 - [HIP 15 Forum Discussion Live](2025/2025-03-03_hip-15-forum-discussion-live.md) - March 2, 2025
 - [HIP 15 Voting Live!](2025/2025-03-03_hip-15-voting-live.md) - March 2, 2025
